@@ -1,0 +1,32 @@
+SUBJECT,VARIANT,AGE,INVASIVE,SITE,SURV,CENS,TREAT,METASTASIS,DEATH
+1,Conventional UC,14,Invasive,Bladder,11.5,0,chemo,NA,1
+2,UC with glandular differentiation,9,Invasive,Prostate and prostatic urethra,2,0,chemo,1,1
+3,Conventional UC,14,Invasive,Bladder/proximal urethra,9,0,none,0,1
+4,UC with squamous differentiation,15,Invasive,"Kidney, pelvis",0.25,0,none,0,1
+5,Conventional UC,13,Invasive,Bladder,2,0,none,0,1
+6,Conventional UC,12,Invasive,Bladder,NA,NA,none,0,0
+7,Sarcomatoid UC,12,Invasive,Urethra,NA,NA,none,0,0
+8,Conventional UC,11,Invasive,Prostate gland,NA,NA,none,0,0
+9,UC with glandular differentiation,15,Invasive,Prostate gland,NA,NA,none,1,0
+10,UC with glandular differentiation,11,Invasive,Bladder,0.12,0,none,0,1
+11,UC with glandular differentiation,12,Invasive,Prostate gland,0.6,0,COX inhibitor,1,1
+12,Sarcomatoid UC,12,Invasive,Urinary bladder,NA,NA,NA,NA,0
+13,Conventional UC,11,Non-invasive,Urinary bladder,NA,NA,NA,NA,0
+14,Conventional UC,9,Invasive,Urethra,0.25,0,none,1,1
+15,Conventional UC,11,Invasive,Urethra,20,1,chemo + COX inhibitor,0,0
+16,UC with glandular differentiation,13,Non-invasive,Urinary bladder apex,9,0,COX inhibitor,0,1
+17,Sarcomatoid UC,11,NA,Urethra and urinary bladder,10,1,COX inhibitor,0,0
+18,UC with glandular differentiation,9,Non invasive,Bladder,10,0,chemo + COX inhibitor,NA,1
+19,Conventional UC,12,invasive,Bladder,11,1,partial cystectomy + COX inhibitor,NA,0
+20,UC with glandular differentiation,9,Invasive,Bladder,1,1,partial cystectomy,1,0
+21,Conventional UC,11,Invasive,Bladder,45,1,radiation + COX inhibitor,0,0
+22,Large nested UC,10,Invasive,Prostate gland,0.5,0,none,NA,1
+23,Conventional UC,8,Invasive,Bladder,34,0,radiation + COX inhibitor,0,1
+24,Conventional UC,9,Invasive,Bladder,13,0,radiation,NA,1
+25,Conventional UC,12,Invasive,Bladder,15,1,radiation,0,0
+26,Conventional UC,11,Invasive,Bladder,0.01,0,none,NA,1
+27,Sarcomatoid UC,11,Invasive,Bladder,3,1,radiation,1,0
+28,UC with glandular differentiation,11,Invasive,Bladder,24,0,COX inhibitor + laser + chemo,NA,1
+29,Small nested and microcystic UC,10,Invasive,Bladder,0.01,0,none,1,1
+30,Conventional UC,7,Invasive,Bladder,9,0,PDL1 mAB + chemo + COX inhibitor,0,1
+31,UC with squamous differentiation,10,Invasive,Ureter,6,0,none,NA,1
